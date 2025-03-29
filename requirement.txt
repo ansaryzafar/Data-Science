@@ -1,0 +1,24 @@
+# Core libraries for data manipulation
+pandas==1.5.3
+numpy==1.24.3
+
+# Libraries for visualization
+matplotlib==3.7.2
+seaborn==0.12.2
+
+# Libraries for machine learning and preprocessing
+scikit-learn==1.2.2
+
+# For handling missing values and outliers (optional but useful)
+scipy==1.10.1
+
+# Notebook environment
+jupyter==1.0.0
+ipykernel==6.22.0
+
+# For database querying and SQLite manipulation (as suggested by notebook names)
+sqlalchemy==2.0.9
+sqlite3 (built into Python, no need to install separately)
+
+# Optional: For deep learning tasks (if needed later)
+tensorflow==2.12.0
